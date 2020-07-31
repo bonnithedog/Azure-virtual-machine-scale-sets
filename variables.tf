@@ -1,6 +1,6 @@
 variable "location" {
   description = "The location where resources are created"
-  default     = "westeu"
+  default     = "northeurope"
 }
 
 variable "resource_group_name" {
